@@ -1,8 +1,8 @@
 # Cosmic Conflict
 
 ## Setup
-### Place the .py file and the 2 images in the same directory
+Place the .py file and the 2 images in the same directory
 
 ## Play
-### Left and Right arrow keys for moving left and right 
-### Space for shooting projectiles
+Left and Right arrow keys for moving left and right 
+Space for shooting projectiles
