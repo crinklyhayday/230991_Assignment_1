@@ -1,2 +1,8 @@
-# 230991_Assignment_1
-Retro game
+# Cosmic Conflict
+
+## Setup
+Place the .py file and the 2 images in the same directory
+
+## Play
+Left and Right arrow keys for moving left and right 
+Space for shooting projectiles
